@@ -401,4 +401,8 @@ const HowlinLunch = () => (
 );
 ```
 
-Redux did something pretty remarkable here - we can now truly treat these components as portable parts of the app. Who cares where you put `HowlinMenuWithRedux`? The component certainly doesn't.
+Redux did something pretty remarkable here - we can now truly treat these components as portable parts of the app. Who cares where you put `HowlinMenuWithRedux`? The component certainly doesn't - that means it's one less thing your brain gets bogged down with when you're designing your app.
+
+# What's next?
+
+Redux and front-end state is a pretty difficult topic: if you got a little lost, that's to be expected. We'll spend some time trying to master redux, but playing with this project is a good start. 
